@@ -9,7 +9,7 @@ Search street view for closest panorama to latitude and longitude 46.414382,10.0
 Creates an Object with the metadata of said Panorama
 
 
-`` newPano=Panorama(latitude='46.414382', longitude='10.013988' ,api_key='my_key') ``
+`` newPano=Panorama(latitude='13.18181649', longitude='55.70879272' ,api_key='my_key') ``
 
 - Latitude (.lat)
 - Longitude (.lng)
@@ -30,3 +30,5 @@ Zoom parameter goes from 0 to 5
 To save the Panorama:
 
 `` newPano.save(directory='Path_to_dir,fname='filename') ``
+
+### Example Output:
