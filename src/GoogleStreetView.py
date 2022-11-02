@@ -157,5 +157,6 @@ if __name__=="__main__" :
     dir='Panorama_test'
     
     newPano=Panorama(latitude=str(lat), longitude=str(lng) ,api_key=my_key)
+    newPano.download_panorama(zoom=4)
     ff="pano_"+str(newPano.panoid)+".jpg"
     newPano.save(directory=dir,fname=ff)
