@@ -107,7 +107,6 @@ class Panorama:
                     try:
                         #print(url)
                         response = requests.get(url, stream=True)
-                        #print(response.content)
                         break
                     except requests.ConnectionError:
                         print("Connection error. Trying again in 2 seconds.")
