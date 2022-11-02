@@ -32,3 +32,4 @@ To save the Panorama:
 `` newPano.save(directory='Path_to_dir,fname='filename') ``
 
 ### Example Output:
+![test panorama](/url "https://github.com/Georspai/GoogleStreetView/blob/main/img/pano_test.jpg")
