@@ -25,7 +25,6 @@ def removeBlacktiles(img):
 
     #crop the image
     crop = img[y:y+h,x:x+w]
-    #cv2.imshow('crop',crop)
 
     return crop
     
