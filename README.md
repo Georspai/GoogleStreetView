@@ -18,7 +18,7 @@ Creates an Object with the metadata of said Panorama
 - Panorama ID (.panoid)
 - Camera Latitude (.cam_lat)
 - Camera Longitude (.cam_lng)
-- Panorama (.img) (Empty at first)\
+- Panorama (.img) (Empty at first)
 
 
 To Download the Panorama:
