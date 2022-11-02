@@ -5,7 +5,7 @@ Python module to download 360 degree Panoramas from Google's Street View Platfor
 A Google Maps API Key is needed in order to use the module.
 
 
-Search street view for closest panorama to latitude and longitude 46.414382,10.013988: \
+Search street view for closest panorama to latitude =13.18181649  and longitude =55.7087927  : \
 Creates an Object with the metadata of said Panorama
 
 
